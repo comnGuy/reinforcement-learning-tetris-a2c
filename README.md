@@ -9,3 +9,7 @@ This repository is tested on Windows 10 with Python 3.8.5 64-bit. To start just 
 1. `pip install requirement.txt`
 
 2. If you want install tensorflow with GPU support go to `https://www.tensorflow.org/install/gpu`
+
+# Inspired
+
+Tetris is programmed by [@silvasur](https://gist.github.com/silvasur) with small changes by myself.
