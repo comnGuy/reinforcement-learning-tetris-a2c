@@ -12,4 +12,6 @@ This repository is tested on Windows 10 with Python 3.8.5 64-bit. To start just 
 
 # Inspired
 
+## Tetris
+
 Tetris is programmed by [@silvasur](https://gist.github.com/silvasur) with small changes by myself.
